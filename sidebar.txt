@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bmx:home|Door43 (bmx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bmx|d43-bmx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bmx/archive/master.zip|d43-bmx.zip]]
+
+**Recent Changes**
+{{changes>ns = bmx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bmx|Ethnologue data]]
+
